@@ -1,3 +1,7 @@
+EX 1 --- LAB 0x01
+
+
+
 .data
     x: .space 4
     sum: .space 4
